@@ -1,5 +1,5 @@
 
-# The One Billion Row Challenge in Rust 
+# The One Billion Row Challenge in Python 
 
 ### Run program
 ```bash
